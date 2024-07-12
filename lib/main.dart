@@ -1,4 +1,4 @@
-import 'package:dojo/pages/home_page.dart';
+import 'package:sharedpreferences/pages/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
